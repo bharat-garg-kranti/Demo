@@ -1,6 +1,7 @@
 secound lineanother line
 add
 third line
+fixbug
 4th lineanotherline
 added in feature2
 add another line to feature2
